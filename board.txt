@@ -1,0 +1,149 @@
+
+━━━ 👤 CATEGORY: Funny Things We've Done at 3am ━━━
+
+  $200
+  Clue:     Maria insisted this convenience store snack 'tastes like memory'.
+  Response: What is Milk chocolate?
+
+  $400
+  Clue:     The exact phrase Karl said when he tried to explain crypto to his grandmother.
+  Response: What is 'it's like internet money but more confusing'?
+
+  $600
+  Clue:     Liis declared this cooking technique was a personality trait at 3am.
+  Response: What is making pasta from scratch?
+
+  
+
+━━━ 🤖 CATEGORY: TikTok Sounds Gone Wrong ━━━
+
+  $200
+  Clue:     This Kesha song from 2009 became a TikTok sensation in 2020, but users kept mispronouncing 'Mick Jagger' in the lyrics, leading to viral corrections and debates
+  Response: What is TiK ToK?
+  ⚠️  SUSPECT — Cannot verify that users 'kept mispronouncing Mick Jagger' or that this led to 'viral corrections and debates'. The song does mention 'Mick Jagger' but this specific TikTok phenomenon is not verifiable.
+
+  $400
+  Clue:     Users incorrectly lip-synced 'I'm a Barbie girl, in the Barbie world' to this artist's 'Material Girl' so often that TikTok had to clarify which song was which during the 2023 Barbie movie hype
+  Response: Who is Madonna?
+  ⚠️  SUSPECT — Cannot verify that users 'incorrectly lip-synced' Aqua's 'Barbie Girl' lyrics to Madonna's 'Material Girl' or that 'TikTok had to clarify which song was which'. This specific confusion scenario is not verifiable.
+
+  $600
+  Clue:     This Steve Lacy song went viral in 2022, but fans were devastated to learn at his concerts that the guitar riff everyone used wasn't looped—making their videos mistimed when the real version played
+  Response: What is Bad Habit?
+  ⚠️  SUSPECT — Cannot verify that fans were 'devastated to learn at his concerts that the guitar riff everyone used wasn't looped' or that this made 'their videos mistimed'. While 'Bad Habit' did go viral on TikTok in 2022, this specific claim about the looped riff issue is not verifiable.
+
+  $800
+  Clue:     The 'corn kid' Tariq's autotune remix became wholesome viral gold until brands overused it so aggressively that the sound became known as the 'death of a TikTok trend' example by late 2022
+  Response: What is It's Corn?
+  ⚠️  SUSPECT — While the 'corn kid' (Tariq) and the autotune remix did go viral, the claim that it became 'known as the death of a TikTok trend example by late 2022' due to brand overuse is a specific characterization that cannot be verified.
+
+  $1000
+  Clue:     When Gayle's 'abcdefu' blew up in 2021, thousands of creators used a sped-up version without realizing it, and then mass-deleted videos when they discovered the 'normal' speed made their choreography look slow and awkward
+  Response: What is abcdefu?
+  ⚠️  SUSPECT — Cannot verify that 'thousands of creators used a sped-up version without realizing it' or that they 'mass-deleted videos' when discovering the normal speed. While 'abcdefu' by Gayle did blow up on TikTok in 2021-2022, this specific phenomenon is not verifiable.
+
+━━━ 🤖 CATEGORY: Poorly Described Pop Stars ━━━
+
+  $200
+  Clue:     This woman really loves umbrellas, especially the ones shaped like 'eh eh eh'
+  Response: Who is Rihanna?
+
+  $400
+  Clue:     Former boy band member who can't stop posting cryptic all-lowercase Instagram captions about being 'so serious rn'
+  Response: Who is Zayn Malik?
+  ⚠️  SUSPECT — Cannot verify that Zayn Malik specifically posts 'cryptic all-lowercase Instagram captions about being so serious rn' - this seems like it could be fabricated or exaggerated social media behavior
+
+  $600
+  Clue:     Pop girl who built her entire brand around being a 'brat' in the summer of 2024, lime green and all
+  Response: Who is Charli XCX?
+
+  $800
+  Clue:     This artist's fans call themselves 'rats' and have been waiting for her to drop the album 'Masochism' since 2015
+  Response: Who is Sky Ferreira?
+  ⚠️  SUSPECT — Cannot verify that Sky Ferreira's fans call themselves 'rats' - this is a very specific claim that may be fabricated. The 'Masochism' album delay since 2015 is accurate, but the 'rats' fanbase name is unverifiable
+
+  $1000
+  Clue:     PC Music icon who tragically died in 2021, leaving behind hyperactive fans still commenting 'stream Vroom Vroom' under every pop girl's posts
+  Response: Who is SOPHIE?
+  ❌ BROKEN — SOPHIE died in 2021, which is correct, but SOPHIE was not the artist behind 'Vroom Vroom' - that song was by Charli XCX, produced by SOPHIE. This creates confusion as the clue attributes the song incorrectly
+     Suggestion: Change to reference SOPHIE's own work like 'Oil of Every Pearl's Un-Insides' or production work, without implying 'Vroom Vroom' was SOPHIE's song
+
+━━━ 🤖 CATEGORY: Fashion Before and After ━━━
+
+  $200
+  Clue:     This luxury French fashion house known for its interlocking Cs & this streaming platform that gave us 'Stranger Things' and 'Wednesday'
+  Response: What is Chanel and Netflix?
+
+  $400
+  Clue:     Rihanna's lingerie brand that revolutionized inclusive sizing & this coffee chain where your name is always spelled wrong
+  Response: What is Savage X Fenty and Starbucks?
+
+  $600
+  Clue:     The maximalist aesthetic named after a wealthy inner-city neighborhood popularized on TikTok in 2022 & this Lana Del Rey song about a man named Jim
+  Response: What is coastal grandmother and Jim(my) or Coney Island?
+  ❌ BROKEN — Response offers multiple acceptable answers ('Jim(my) or Coney Island'). Also, the aesthetic was 'coastal grandmother' not named after a neighborhood, and there's no clear Lana Del Rey song that fits well with this. 'Jim' appears in 'The greatest' but that's not 'about a man named Jim'.
+     Suggestion: This clue needs complete reworking - the 'coastal grandmother' aesthetic isn't named after a neighborhood, and there's no clear single Lana Del Rey song answer.
+
+  $800
+  Clue:     The Phoebe Philo-founded brand that launched in 2023 with astronomical prices & this term for when your For You Page is showing you exactly what you want
+  Response: What is Phoebe Philo and algorithm working?
+  ❌ BROKEN — Phoebe Philo did not found a brand called 'Phoebe Philo' - she launched an eponymous brand but that would be tautological (clue says 'Phoebe Philo-founded brand' and answer is 'Phoebe Philo'). Also 'algorithm working' is not a standard term.
+     Suggestion: Rework to avoid tautology - either refer to the brand by name without using her name in the clue, or choose a different fashion reference entirely.
+
+  $1000
+  Clue:     The chaotic Copenhagen street style phenomenon that rejects minimalism, abbreviated CPHFW & this Charli XCX album aesthetic that dominated summer 2024
+  Response: What is Copenhagen Fashion Week and brat?
+  ⚠️  SUSPECT — While Copenhagen Fashion Week exists and 'brat' was indeed a Charli XCX aesthetic in 2024, describing CPHFW as 'chaotic street style phenomenon that rejects minimalism' is a subjective characterization that's hard to verify as factual.
+
+━━━ 🤖 CATEGORY: Estonian History: The Receipts ━━━
+
+  $200
+  Clue:     This country occupied Estonia from 1940-1991, with a brief Nazi intermission, leaving behind apartment blocks and a complicated linguistic situation
+  Response: What is the Soviet Union?
+
+  $400
+  Clue:     Estonia's 2007 cyber attacks, triggered by moving a Soviet war memorial, led to this Estonian capital becoming known as a global cybersecurity hub
+  Response: What is Tallinn?
+
+  $600
+  Clue:     This August 1991 event, where Estonians linked arms with Latvians and Lithuanians in 1989, was called the Singing Revolution because of their use of folk songs as protest
+  Response: What is the Baltic Way?
+  ❌ BROKEN — The clue conflates two different events: the Baltic Way (August 1989 human chain) and the Singing Revolution (broader movement using songs). The Baltic Way was part of the Singing Revolution but wasn't 'called the Singing Revolution.' The clue also incorrectly dates the Baltic Way to August 1991 when it occurred in August 1989.
+     Suggestion: Split into separate clues or fix to: 'This August 1989 human chain protest, where 2 million people linked arms across the Baltic states, was part of the peaceful Singing Revolution' with response 'What is the Baltic Way?'
+
+  $800
+  Clue:     Estonia's e-Residency program, launched in 2014, lets you start an EU company without living there—basically the OG digital nomad move that Estonia turned into national policy
+  Response: What is e-Residency?
+
+  $1000
+  Clue:     The forest brothers, Estonian partisans who hid in the woods fighting Soviet occupation into the 1950s, have become Gen Z symbols of resistance, with their aesthetic showing up in Estonian indie music videos and alt history memes
+  Response: What are the Forest Brothers?
+  ⚠️  SUSPECT — The claim about Forest Brothers 'becoming Gen Z symbols of resistance, with their aesthetic showing up in Estonian indie music videos and alt history memes' cannot be verified and sounds fabricated. While the Forest Brothers are historical, their modern cultural prominence in this specific way is questionable.
+
+━━━ 🤖 CATEGORY: Kitchen Disasters ━━━
+
+  $200
+  Clue:     This common baking ingredient can easily be confused with baking soda, leading to a flat, salty disaster if you use too much of it.
+  Response: What is baking powder?
+  ❌ BROKEN — The clue describes baking powder, not baking soda. Baking powder is what you'd confuse WITH baking soda, not the other way around. Also, using too much baking soda (the response) would make things bitter/soapy, not necessarily flat and salty.
+     Suggestion: Reverse the clue and response, or clarify which ingredient causes which problem when confused.
+
+  $400
+  Clue:     When making pasta, this starchy cooking liquid is precious gold for your sauce, but dump it down the drain and you'll be stuck with dry, clumpy noodles.
+  Response: What is pasta water?
+
+  $600
+  Clue:     Adam Ragusea's famous "cook your meat straight from the fridge" advice helps you avoid this problem where a room-temp steak overcooks on the outside before the center is done.
+  Response: What is the gray band?
+  ⚠️  SUSPECT — Cannot verify that Adam Ragusea specifically advocates cooking steak 'straight from the fridge.' This contradicts common cooking advice. The 'gray band' refers to overcooked meat, but the causal relationship described seems questionable.
+
+  $800
+  Clue:     In J. Kenji López-Alt's food science, this is what happens when you add cold liquid to a hot pan and the fond becomes a bitter, burnt mess instead of a glaze.
+  Response: What is seizing?
+  ❌ BROKEN — Seizing refers to chocolate becoming grainy when water is added, not to fond/deglazing problems. Adding cold liquid to hot pan with fond is called deglazing and is a standard technique, not a disaster. The described scenario doesn't match the term 'seizing.'
+     Suggestion: Either use correct terminology for deglazing gone wrong, or rewrite clue to match what seizing actually means (chocolate/ganache issue).
+
+  $1000
+  Clue:     This TikTok creator went viral for their "prison ramen" series, but their actual kitchen disaster content shows what happens when you forget the water in your microwave mac and cheese.
+  Response: Who is Tini Younger?
+  ⚠️  SUSPECT — Cannot verify that 'Tini Younger' exists as a TikTok creator or made 'prison ramen' content. The name and specific content claims cannot be confirmed.
