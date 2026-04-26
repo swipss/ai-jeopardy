@@ -12,4 +12,4 @@ Outputs board in JeopardyLabs paste-ready format
 
 # Known limits
 
-The verifier catches structural errors (tautologies, multi-answer responses, fabricated cross-domain facts) reliably, but cannot reliably catch subtle factual errors in real domains because it shares the same knowledge gaps as the generator. See video for full reflection.
+The verifier catches structural errors (tautologies, multi-answer responses, fabricated cross-domain facts) reliably, but cannot reliably catch subtle factual errors in real domains because it shares the same knowledge gaps as the generator.
